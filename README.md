@@ -12,6 +12,7 @@ Utilizar imagens da câmera do dispositivo (notebook ou celular) local, caso nã
 Exemplo output:
 
 Sparse:
+
 <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/optical_flow/output/opticalflow_dense.png"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/optical_flow/output/opticalflow_dense..png"></a>
 
 Dense: 
