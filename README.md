@@ -45,7 +45,7 @@ Exemplo output:
 
 Detectar objetos em imagens ou video utilizando um metodo de deep learning pre treinado com imagens do dataset ImageNet, MS COCO ou outros. 
 
-Justificar o uso do modelo de acordo com os seguintes parâmetros: 
+Justificar a escolha do modelo e apresentar seguintes resultados: 
 
 * Métrica de validação 
 * Métricas de treinamento
