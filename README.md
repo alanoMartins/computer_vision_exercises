@@ -11,6 +11,13 @@ Utilizar imagens da câmera do dispositivo (notebook ou celular) local, caso nã
 
 Exemplo output:
 
+Sparse:
+<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/optical_flow/output/opticalflow_dense.png"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/optical_flow/output/opticalflow_dense..png"></a>
+
+Dense: 
+
+<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/optical_flow/output/opticalflow_sparse.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/optical_flow/output/opticalflow_sparse.jpg" width=320></a>
+
 
 ## Image stitching
 
@@ -33,7 +40,7 @@ Exemplo output:
 <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/output/output.png"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/output/output.png" width="512"></a>
 
 
-## Object detection
+## Object detection com deep learning
 
 Realizar 
 
