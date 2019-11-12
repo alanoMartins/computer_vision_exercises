@@ -2,7 +2,7 @@
 
 > Todos os exercicios poderam ser feitos na linguagem desejada e usando bibliotecas como OpenCV, Tensorflow, Keras, etc
 
-## Optical flow e tracking
+##  1) Optical flow e tracking
 
 Selecionar uma área de um video e realizar o tracking utilizando Optical Flow. Desenhe o vetor resultante entre as localizações das features.
 
@@ -20,7 +20,7 @@ Dense:
 <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/optical_flow/output/opticalflow_sparse.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/optical_flow/output/opticalflow_sparse.jpg" width=320></a>
 
 
-## Image stitching
+## 2) Image stitching
 
 Utilizar descritores de imagem, como SURF, SIFT ou ORB para identificar descritores similares entre imagens e conecta-las, gerando uma unica imagem. 
 
@@ -41,12 +41,23 @@ Exemplo output:
 <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/output/output.png"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/output/output.png" width="512"></a>
 
 
-## Object detection com deep learning
+## 3) Object detection com deep learning
 
-Realizar 
+Detectar objetos em imagens ou video utilizando um metodo de deep learning pre treinado com imagens do dataset ImageNet, MS COCO ou outros. 
+
+Justificar o uso do modelo de acordo com os seguintes parâmetros: 
+
+* Métrica de validação 
+* Métricas de treinamento
+* Frames por segundos
+
 
 Exemplo de input:
 
+<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/assets/input.jpeg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/assets/input.jpeg" width="512"></a>
+
 
 Exemplo output:
+
+<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/output.png"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/output.png" width="512"></a>
 
