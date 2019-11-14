@@ -11,13 +11,9 @@ Utilizar imagens da câmera do dispositivo (notebook ou celular) local, caso nã
 
 Exemplo output:
 
-Sparse:
+Sparse e Dense:
 
-<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/optical_flow/output/opticalflow_dense.png"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/optical_flow/output/opticalflow_dense..png"></a>
-
-Dense:
-
-<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/optical_flow/output/opticalflow_sparse.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/optical_flow/output/opticalflow_sparse.jpg" width=320></a>
+<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/optical_flow/output/sparse-vs-dense.gif"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/optical_flow/output/sparse-vs-dense.gif"></a>
 
 
 ## 2) Image stitching
