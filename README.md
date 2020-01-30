@@ -144,7 +144,9 @@ Treinamento:
 
 <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/loss.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/loss.jpg" width="512"></a>
 
-Validação: MAp: 86%
+Validação: 
+
+MAp: 86%
 
 
 ## 5) Context segmentation com deep learning (Avançado)
