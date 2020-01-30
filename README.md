@@ -125,24 +125,61 @@ Exemplo output:
 Implementar uma versão da arquitetura MnasNet ou MobileNet utilizando Python e tensorflow 2.x ou Keras para detecção de objetos treinado com o dataset ImageNet, COCOS MS ou outro. O método de detecção fica a seu critério, podendo escolher SSD, RetinaNet ou outro.
 
 Papers:
-. MnasNet: https://arxiv.org/pdf/1807.11626.pdf
-. MobileNet: https://arxiv.org/pdf/1704.04861.pdf
-. SSD: https://arxiv.org/pdf/1512.02325.pdf
-. RetinaNet: https://arxiv.org/pdf/1708.02002.pdf
+* MnasNet: https://arxiv.org/pdf/1807.11626.pdf
+* MobileNet: https://arxiv.org/pdf/1704.04861.pdf
+* SSD: https://arxiv.org/pdf/1512.02325.pdf
+* RetinaNet: https://arxiv.org/pdf/1708.02002.pdf
 
 O resultado desse exercicio deverá ser:
 
-. Imagem com os bounding boxes 
-. Métrica de treinamento da rede
-. Métrica de validação
+* Imagem com os bounding boxes 
+* Métrica de treinamento da rede
+* Métrica de validação
 
 Exemplo de output: 
 
-<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/output.png"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/output.png" width="512"></a>
+<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/loss.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/output.png" width="512"></a>
 
 Treinamento: 
 <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/output.png"><img src="
 https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/loss.jpg" width="512"></a>
 
 Validação: MAp: 86%
+
+
+## 5) Context segmentation com deep learning (Avançado)
+
+Implementar uma versão da arquitetura Segnet, UNet ou FCN utilizando Python e tensorflow 2.x ou Keras para segmentação de contexto treinado com um dataset publico, como PASCAL, CAMVID  ou outro. A rede / arquitetura para extração de features fica a seu critério, podendo escolher MobileNet, VGG, ResNet ou outra.
+
+Exemplos de datasets:
+
+* CAMVID: http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/
+* COCOS: http://cocodataset.org/#stuff-2017
+* PASCAL: https://cs.stanford.edu/~roozbeh/pascal-context/
+
+Papers:
+* Segnet: https://arxiv.org/pdf/1807.11626.pdf
+* UNet: https://arxiv.org/pdf/1505.04597.pdf
+* FCN: https://arxiv.org/pdf/1605.06211.pdf
+* MobileNet: https://arxiv.org/pdf/1704.04861.pdf
+* VGG: https://arxiv.org/pdf/1512.02325.pdf
+* ResNet: https://arxiv.org/pdf/1708.02002.pdf
+
+O resultado desse exercicio deverá ser:
+
+* Mascara de segmentação e imagem
+* Métrica de treinamento da rede
+* Métrica de validação
+
+Exemplo de output: 
+
+<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/segmentation/output/loss.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/segmentation/output/output.png" width="512"></a>
+
+Treinamento: 
+<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/output.png"><img src="
+https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/loss.jpg" width="512"></a>
+
+Validação: IoU: 0.73
+
+
 
