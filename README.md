@@ -141,8 +141,7 @@ Exemplo de output:
 <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/output.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/output.png" width="512"></a>
 
 Treinamento: 
-<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/loss.png"><img src="
-https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/loss.jpg" width="512"></a>
+<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/loss.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/loss.jpg" width="512"></a>
 
 Validação: MAp: 86%
 
@@ -178,8 +177,7 @@ Exemplo de output:
 <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/segmentation/output/output_mask.png"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/segmentation/output/output_mask.png" width="512"></a>
 
 Treinamento: 
-<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/output.png"><img src="
-https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/loss.jpg" width="512"></a>
+<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/loss.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/object_detection/output/loss.jpg" width="512"></a>
 
 Validação: IoU: 0.73
 
