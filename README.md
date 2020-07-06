@@ -79,10 +79,29 @@ Exemplo output:
 
 <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/output/output.png"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/output/output.png" width="512"></a>
 
-  
-  
 
-## 3) Object detection com deep learning
+
+## 3) Model Deployment (Web/Docker)
+
+Implementar serviço web básico com uma rota que receba imagem via file upload e retorne o resultado processado. 
+
+Usar qualquer framework web para Python. 
+
+Preferencialmente fornecer Dockerfile para geração de container do serviço. 
+Serviço será testado via POSTMAN.
+
+
+Exemplos de input:
+
+<a href=""><img src="web-service/input.jpg" width="256" height="256"></a>
+<a href=""><img src="web-service/input2.jpg" width="256" height="256"></a>
+
+Postman output:
+
+<a href=""><img src="web-service/postman-output.png" width="256"></a>
+<a href=""><img src="web-service/postman-output2.png" width="256"></a>
+
+## 4) Object detection com deep learning
 
   
 
@@ -120,7 +139,7 @@ Exemplo output:
 
 
 
-## 4) Context segmentation com deep learning (Avançado)
+## 5) Context segmentation com deep learning (Avançado)
 
 Implementar uma versão da arquitetura Segnet, UNet ou FCN utilizando Python e tensorflow 2.x ou Keras para segmentação de contexto treinado com um dataset publico, como PASCAL, CAMVID  ou outro. A rede / arquitetura para extração de features fica a seu critério, podendo escolher MobileNet, VGG, ResNet ou outra.
 
