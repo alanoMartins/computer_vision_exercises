@@ -93,13 +93,13 @@ Serviço será testado via POSTMAN.
 
 Exemplos de input:
 
-<a href=""><img src="web-service/input.jpg" width="256" height="256"></a>
-<a href=""><img src="web-service/input2.jpg" width="256" height="256"></a>
+<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/web-service/input.jpg"><img src="web-service/input.jpg" width="256" height="256"></a>
+<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/web-service/input2.jpg"><img src="web-service/input2.jpg" width="256" height="256"></a>
 
 Postman output:
 
-<a href=""><img src="web-service/postman-output.png" width="256"></a>
-<a href=""><img src="web-service/postman-output2.png" width="256"></a>
+<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/web-service/postman-output.png"><img src="web-service/postman-output.png" width="256"></a>
+<a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/web-service/postman-output2.png"><img src="web-service/postman-output2.png" width="256"></a>
 
 ## 4) Object detection com deep learning
 
